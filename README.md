@@ -1,15 +1,12 @@
-# scientific-python2.7-docker
+# waveform-python2.7-docker
 
 Docker image with some libraries installed on top of Python 2.7.
 
 Libraries included:
 
 - Numpy
-- IPython
 - Tornado
 - Pydub
-- Pytest
-- Coverage
 
 See [the requirements file](./requirements.txt) for more details and versions.
 
